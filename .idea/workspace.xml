@@ -6,9 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="224fff50-6375-4049-8900-cb5adb2ca70a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="224fff50-6375-4049-8900-cb5adb2ca70a" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -300,7 +298,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="51" />
     <option name="y" value="27" />
     <option name="width" value="1176" />
@@ -526,12 +524,12 @@
       <workItem from="1542088393491" duration="17326000" />
       <workItem from="1542174806132" duration="8439000" />
       <workItem from="1542192230868" duration="3446000" />
-      <workItem from="1542260043920" duration="2253000" />
+      <workItem from="1542260043920" duration="3338000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="129043000" />
+    <option name="totallyTimeSpent" value="130128000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -543,7 +541,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="51" y="25" width="1315" height="743" extended-state="7" />
+    <frame x="51" y="25" width="1315" height="743" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7635783" visible="true" weight="0.25847125" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
